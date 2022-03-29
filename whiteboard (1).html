@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>My javascript</title>
+
+    <meta charset="UTF-8">
+    <style>
+        #red_color {
+            background-color: #FF0000;
+            width: 50px;
+            height: 30px;
+            color: #FFFFFF;
+        }
+        
+        #yellow_color {
+            background-color: #FFFF00;
+            width: 50px;
+            height: 30px;
+            color: #000000;
+        }
+        
+        #white_color {
+            background-color: #FFFFFF;
+            width: 50px;
+            height: 30px;
+            color: #000000;
+        }
+        
+        #clear {
+            background-color: #FFFFFF;
+            width: 50px;
+            height: 30px;
+            background-color: #000000;
+            color: #FFFFFF;
+        }
+        
+        #eraser {
+            background-color: #FFFFFF;
+            width: 50px;
+            height: 30px;
+            background-color: #000000;
+            color: #FFFFFF;
+        }
+        
+        #brush_width {
+            width: 200px;
+            height: 30px;
+            background: #dddddd;
+        }
+    </style>
+</head>
+
+<body>
+
+    <button id="red_color">Red</button>
+    <button id="yellow_color">Yellow</button>
+    <button id="white_color">White</button>
+    <button id="eraser">Eraser</button>
+    <button id="clear">Clear</button>
+    <!-- button id="lines">Line</button-->
+
+    <input type="range" min="1" max="25" value="5" class="slider" id="brush_width">
+
+    <br><br><br>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
+
+    <script>
+        var brush_color = [0, 0, 0, 0];
+        var eraser = false;
+        var lines = false;
+        var X = 0;
+        var Y = 0;
+
+        function mousePressed() {
+            if (lines) {
+                X = mouseX;
+                Y = mouseY;
+            }
+        }
+
+        function setup() {
+            createCanvas(1500, 600);
+            background(0, 0, 0);
+            brush_color = [255, 255, 255, 255];
+        }
+
+        function draw() {
+            brush_width = document.getElementById("brush_width").value
+        }
+
+        function mouseDragged() {
+
+            if (lines) {
+
+                if (X == 0 && Y == 0) {
+                    pass
+                } else {
+                    strokeWeight(brush_width);
+                    stroke(brush_color);
+                    a = line(X, Y, pmouseX, pmouseY);
+
+                }
+            } else {
+                if (eraser) {
+                    strokeWeight(brush_width);
+                    stroke([0, 0, 0, 255]);
+                    line(mouseX, mouseY, pmouseX, pmouseY);
+                } else {
+                    if (mouseButton == LEFT) {
+                        strokeWeight(brush_width);
+                        stroke(brush_color);
+                        line(mouseX, mouseY, pmouseX, pmouseY);
+                    }
+                    if (mouseButton == RIGHT) {
+                        noStroke();
+                        fill([0, 0, 0, 255]);
+                        ellipse(mouseX, mouseY, 25, 25);
+                    }
+                }
+            }
+        }
+
+        document.getElementById("red_color").onclick = function() {
+            brush_color = [255, 0, 0, 255];
+            eraser = false;
+        }
+
+
+        document.getElementById("yellow_color").onclick = function() {
+            brush_color = [255, 255, 0, 255];
+            eraser = false;
+        }
+
+        document.getElementById("white_color").onclick = function() {
+            brush_color = [255, 255, 255, 255];
+            eraser = false;
+        }
+
+        document.getElementById("eraser").onclick = function() {
+            eraser = true;
+        }
+
+        document.getElementById("clear").onclick = function() {
+            clear();
+            background(0, 0, 0)
+        }
+
+        document.getElementById("lines").onclick = function() {
+            lines = true;
+        }
+    </script>
+</body>
+
+</html>
