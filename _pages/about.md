@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 8248003579
+subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail.com</a>. 8248003579
 
 profile:
   align: right
-  image: 2c_image.jpg
+  image: 2c_image.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
