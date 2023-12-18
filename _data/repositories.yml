@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Haricharan1212
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Haricharan1212/IITM-Academics
+  - Haricharan1212/CP
+  - Haricharan1212/MDS-work-IITM
+  - dfki-ric-underactuated-lab/torque_limited_simple_pendulum
