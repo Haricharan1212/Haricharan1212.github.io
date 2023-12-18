@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail.com</a>. 8248003579
+subtitle: 8248003579
 
 profile:
   align: right
@@ -27,4 +27,4 @@ I mostly live for the Adrenaline rush I get out of solving problems, be it puzzl
 
 My interests include physics, computer science (specifically algorithms), electrical engineering (specifically signal processing and comms.) and, of course, math.
 
-I'm also an avid <a href='https://codeforces.com/profile/Haricharan_B'>competitive programmer</a> and I'm a Candidate Master in the Codeforces Website.
+I'm also an avid <a href='https://codeforces.com/profile/Haricharan_B'>competitive programmer</a> and I'm a Candidate Master in the Codeforces
