@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: You can find all the repositories I'm interested in here. *Always use GitHub. Never use Google Drive.*
 nav: true
 nav_order: 3
