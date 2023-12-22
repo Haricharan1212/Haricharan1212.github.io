@@ -207,7 +207,7 @@ exclude:
   - _news
   - _posts/old
   - _pages/publications.md
-  - _pages/projects.md
+  - _projects/old
 keep_files:
   - CNAME
   - .nojekyll

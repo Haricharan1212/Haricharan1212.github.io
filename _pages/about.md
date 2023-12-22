@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail.com</a>. 8248003579
+subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail.com</a>
 
 profile:
   align: right
