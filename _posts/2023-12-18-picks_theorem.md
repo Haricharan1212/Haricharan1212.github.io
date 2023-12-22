@@ -2,7 +2,7 @@
 layout: post
 title: Pick's Theorem
 date: 18-12-2023
-description: an example of a blog post with some code
+description: An elegant theorem on 2-D integer lattices
 tags: math
 categories: 
 featured: false
