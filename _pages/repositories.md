@@ -2,10 +2,12 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: You can find all the repositories I'm interested in here. *Always use GitHub. Never use Google Drive.*
+description: You can find all the repositories I'm interested in here.
 nav: true
 nav_order: 3
 ---
+
+*Always use GitHub. Never use Google Drive.*
 
 ## GitHub users
 
