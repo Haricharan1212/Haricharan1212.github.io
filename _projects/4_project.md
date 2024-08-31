@@ -4,7 +4,7 @@ title: Approximation Algorithms
 description: Paper Presentation
 img: 
 importance: 1
-category: research
+category: course
 related_publications:
 ---
 
