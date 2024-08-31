@@ -8,21 +8,22 @@ profile:
   align: right
   image: 2c_image.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    Junior at IIT Madras
+  more_info:
 
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Haricharan!
+I am deeply passionate about exploring complex concepts in computer science, electrical engineering, and physics through the lens of fundamental mathematical principles.
 
-I'm an **applied math** enthusiast, always up for an enlightening discussion on math, physics, or engineering.
+My primary areas of interest include:
 
-I mostly live for the Adrenaline rush I get out of solving problems, be it puzzles or mind-bending math riddles.
+- *Information Theory and Multi-Armed Bandits*
+- *Theoretical Computer Science*, with a particular emphasis on NP-hardness and approximation algorithms
+- *The Future of Cellular Communication*, including 5G and 6G technologies
 
-My interests include physics, computer science (specifically algorithms), electrical engineering (specifically signal processing and comms.) and, of course, math.
+I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions. I am always open to meaningful discussions within these areas of expertise.
 
-I'm also an avid competitive programmer and I'm a <a href='https://codeforces.com/profile/Haricharan_B'>Candidate Master </a> in the Codeforces Website.
+For inquiries, please contact me at: `haricharan12122003@gmail.com`.

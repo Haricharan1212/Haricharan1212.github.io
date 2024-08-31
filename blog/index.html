@@ -95,6 +95,8 @@ pagination:
   {% endif %}
 
   <ul class="post-list">
+    <!-- {% assign list = paginator.posts | push: item %} -->
+
     {% for post in paginator.posts %}
 
     {% if post.external_source == blank %}
@@ -161,6 +163,7 @@ pagination:
     </li>
 
     {% endfor %}
+
   </ul>
 
   {% include pagination.html %}
