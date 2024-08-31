@@ -152,9 +152,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: The Fifth Estate, IITM
-    posts:
-      https://www.t5eiitm.org/author/ep21b015smail-iitm-ac-in/feed/
+  # - name: The Fifth Estate, IITM
+  #   posts:
+  #     https://www.t5eiitm.org/author/ep21b015smail-iitm-ac-in/feed/
 
 # -----------------------------------------------------------------------------
 # Collections
