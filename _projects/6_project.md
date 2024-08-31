@@ -10,4 +10,4 @@ related_publications:
 
 Presentation on Lempel-Ziv Coding from when I took the Information Theory (EE5143) course.
 
-<a href="{{ site.baseurl }}/assets/pdf/Information_Theory_Presentation.pdf"> Link to GitHub Repository </a> 
+<a href="{{ site.baseurl }}/assets/pdf/Information_Theory_Presentation.pdf"> Link to Slides </a> 
