@@ -26,4 +26,4 @@ My primary areas of interest include:
 - *Theoretical Computer Science*, with a particular emphasis on NP-hardness and approximation algorithms
 - *The Future of Cellular Communication*, including 5G and 6G technologies
 
-I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions. I am always open to meaningful discussions within these areas of expertise.
+I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions. I am always open to meaningful discussions about mathematics and engineering.
