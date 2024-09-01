@@ -3,8 +3,7 @@ layout: page
 permalink: /repositories/
 title: Repositories
 description: You can find all the repositories I'm interested in here.
-nav: true
-nav_order: 3
+nav: false
 ---
 
 *Always use GitHub. Never use Google Drive.*

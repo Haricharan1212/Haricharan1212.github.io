@@ -27,5 +27,3 @@ My primary areas of interest include:
 - *The Future of Cellular Communication*, including 5G and 6G technologies
 
 I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions. I am always open to meaningful discussions within these areas of expertise.
-
-For inquiries, please contact me at: `haricharan12122003@gmail.com`.

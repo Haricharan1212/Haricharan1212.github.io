@@ -3,9 +3,9 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Nothing as of now.
-nav: true
-nav_order: 1
+nav: false
 ---
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
