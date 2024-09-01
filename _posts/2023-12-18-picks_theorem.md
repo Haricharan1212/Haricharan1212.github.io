@@ -3,8 +3,7 @@ layout: post
 title: Pick's Theorem
 date: 18-12-2023
 description: An elegant theorem on 2-D integer lattices
-tags: math
-categories: 
+tags: Math
 featured: false
 toc:
   sidebar: left
