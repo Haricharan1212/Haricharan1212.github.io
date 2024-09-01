@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /repositories/
 title: Repositories
@@ -42,4 +42,4 @@ nav: false
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
