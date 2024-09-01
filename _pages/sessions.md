@@ -26,4 +26,6 @@ nav_order: 5
 #### Course Presentation
 These include my presentations as part of course projects.
 
-* [Approximation Algorithms Paper Presentation](/assets/pdf/Approximation Algorithms Course Presentation.pdf)
+* [Advanced Graph Algorithms](assets/pdf/Advanced_Graph_Algorithms_Paper_Presentation.pdf)
+* [Lempel-Ziv Coding: Information Theory](assets/pdf/Information_Theory_Presentation.pdf)
+* [Approximation Algorithms Paper Presentation](assets/pdf/Approximation_Algorithms_Paper_Presentation.pdf)
