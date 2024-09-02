@@ -23,7 +23,7 @@ nav_order: 5
   {%- endif %}
 {% endfor %}
 
-#### Course Presentation
+#### Course Presentations
 These include my presentations as part of course projects.
 
 * [Advanced Graph Algorithms](assets/pdf/Advanced_Graph_Algorithms_Paper_Presentation.pdf)
