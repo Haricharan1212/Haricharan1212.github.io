@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm **Haricharan**! I'm a fourth-year Electrical Engineering undergraduate at Indian Institute of Technology, Madras.
+Hey, I'm **Haricharan**! I'm a fourth-year *Electrical Engineering* Undergraduate at Indian Institute of Technology, Madras.
 
-I am deeply passionate about exploring complex concepts in computer science, electrical engineering, and physics through the lens of fundamental mathematical principles.
+I am deeply passionate about exploring advanced concepts in *computer science*, *electrical engineering*, and *physics* through the lens of fundamental *mathematical* principles.
 
 My primary areas of interest include:
 
@@ -26,4 +26,6 @@ My primary areas of interest include:
 - *Theoretical Computer Science*, with a particular emphasis on NP-hardness and approximation algorithms
 - *The Future of Cellular Communication*, including 5G and 6G technologies
 
-I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions. I am always open to meaningful discussions about mathematics and engineering.
+I find great intellectual satisfaction in *tackling challenging problems*, whether they are engaging mathematical puzzles or intricate research questions. I'm always open to meaningful discussions about mathematics and engineering.
+
+I enjoy delivering engaging sessions, lectures and talks and am committed to connecting with audiences by sharing thought-provoking insights.
