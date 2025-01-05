@@ -123,7 +123,7 @@ permalink: /blog/:year/:title/
 # Pagination
 pagination:
   enabled: true
-  per_page: 100
+paginate: 5
 
 related_blog_posts:
   enabled: false
