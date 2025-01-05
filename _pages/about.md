@@ -23,8 +23,8 @@ I am deeply passionate about exploring advanced concepts in *computer science*, 
 My primary areas of interest include:
 
 - *Information Theory and Multi-Armed Bandits*
+- *The Future of Cellular Communication*, including 5G and 6G technology
 - *Theoretical Computer Science*, with a particular emphasis on NP-hardness and approximation algorithms
-- *The Future of Cellular Communication*, including 5G and 6G technologies
 
 I find great intellectual satisfaction in *tackling challenging problems*, whether they are engaging mathematical puzzles or intricate research questions. I'm always open to meaningful discussions about mathematics and engineering.
 
