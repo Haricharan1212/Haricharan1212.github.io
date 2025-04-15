@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Nothing as of now.
-nav: false
+description: My publications and ongoing research.
+nav: true
 ---
 
 <!-- _pages/publications.md -->
