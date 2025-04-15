@@ -2,8 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My publications and ongoing research.
+description:
 nav: true
+nav_order: 3
+horizontal: false
+
 ---
 
 <!-- _pages/publications.md -->
