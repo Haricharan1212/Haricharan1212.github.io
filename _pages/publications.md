@@ -1,19 +1,20 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
-description:
+title: publications
+description: cholar.
 nav: true
-nav_order: 3
-horizontal: false
-
+nav_order: 2
 ---
 
-Hello
-
 <!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography %}
 
 </div>
