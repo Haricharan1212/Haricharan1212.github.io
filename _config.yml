@@ -201,7 +201,6 @@ exclude:
   - _pages/profiles.md
   - _news
   - _posts/old
-  - _pages/publications.md
   - _projects/old
 keep_files:
   - CNAME
