@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: cholar.
+title: Publications
+description: 
 nav: true
 nav_order: 2
 ---
@@ -16,3 +16,4 @@ nav_order: 2
 Publications:
 
 1. H. Balasundaram, G. Limaye, M. Nasre, and A. Raja, "Generalized Capacity Planning for the Hospital-Residents Problem," arXiv preprint arXiv:2503.23328, 2025. Available: [arXiv](https://arxiv.org/abs/2503.23328)
+2. 
