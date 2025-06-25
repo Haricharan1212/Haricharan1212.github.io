@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /sessions/
-title: Sessions
-description: I've taken a lot of sessions, mostly in my year-and-a-half stint as head of mathematics club. You can find slides/resources for most of them below!
+permalink: /misc/
+title: Miscellaneous
 nav: true
 nav_order: 5
 ---
