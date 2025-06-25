@@ -27,6 +27,8 @@ I am the founder and was the head of Mathematics Club, Centre for Innovation, at
 #### Course Presentations
 These include my presentations as part of course projects.
 
-* [Advanced Graph Algorithms](assets/pdf/Advanced_Graph_Algorithms_Paper_Presentation.pdf)
-* [Lempel-Ziv Coding: Information Theory](assets/pdf/Information_Theory_Presentation.pdf)
-* [Approximation Algorithms Paper Presentation](assets/pdf/Approximation_Algorithms_Paper_Presentation.pdf)
+* [Advanced Graph Algorithms](assets/Advanced_Graph_Algorithms_Paper_Presentation.pdf)
+
+* [Lempel-Ziv Coding: Information Theory](assets/Information_Theory_Presentation.pdf)
+
+* [Approximation Algorithms Paper Presentation](assets/Approximation_Algorithms_Paper_Presentation.pdf)
