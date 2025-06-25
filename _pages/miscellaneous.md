@@ -16,6 +16,8 @@ nav_order: 5
 
 ### Mathematics Club Sessions
 
+I am the founder and was the head of Mathematics Club, Centre for Innovation, at IIT Madras. In my year-and-half stint, I had conducted fun and engaging sessions (mostly to undergrads) and you can find the links to some of them below. Some of the slides were made using [Manim](https://www.manim.community/).
+
 {% for file in site.static_files %}
   {% if file.path contains "maths_club" -%}
      * [{{ file.basename }}]({{ site.baseurl }}{{ file.path }})
