@@ -3,7 +3,7 @@ layout: page
 permalink: /misc/
 title: Miscellaneous
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <!-- {% include video.html path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
