@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering dual degree student at Indian Institute of Technology, Madras.
 
-I am deeply passionate about exploring advanced concepts in *electrical engineering* and *computer science* using *fundamental mathematical* principles.
+I am deeply passionate about exploring advanced concepts in *Electrical Engineering* and *Computer Science* using mathematical principles.
 
 My primary areas of interest include:
 
@@ -26,6 +26,4 @@ My primary areas of interest include:
 - *Theoretical Computer Science*, with a particular emphasis on algorithms and complexity
 - *The Future of Communication Systems*, including 5G and 6G technology
 
-I find great intellectual satisfaction in tackling challenging problems, whether they are engaging mathematical puzzles or intricate research questions.
-
-I enjoy delivering engaging sessions, lectures and talks and am committed to connecting with audiences by sharing thought-provoking insights.
+I find great intellectual satisfaction in *tackling challenging problems*, whether they are engaging mathematical puzzles or intricate research questions.
