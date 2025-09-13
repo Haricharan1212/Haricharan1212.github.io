@@ -7,10 +7,26 @@ nav: true
 nav_order: 3
 ---
 
-<!-- Submitted Publications:
+## Accepted Publications
 
-1. Haricharan Balasundaram, Krishna Jagannathan: Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback, IEEE Information Theory Workshop (ITW) 2025
+1. **Estimating Error in Natural Distribution Estimation**  
+   H. Balasundaram, A. Thangaraj  
+   *Annual Allerton Conference on Communication, Control, and Computing 2025*
 
-2. Haricharan Balasundaram, Andrew Thangaraj: Estimating Uniformity of Missing and Sparsely Observed Parts of Distributions, IEEE Information Theory Workshop (ITW) 2025 -->
+---
 
-1. H. Balasundaram, G. Limaye, M. Nasre, and A. Raja, "Generalized Capacity Planning for the Hospital-Residents Problem," arXiv preprint arXiv:2503.23328, 2025. Available: [arXiv](https://arxiv.org/abs/2503.23328)
+## Ongoing Publications
+
+1. **Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback**  
+   H. Balasundaram, K. Jagannathan  
+   [arXiv](https://arxiv.org/abs/2507.08599)
+
+2. **Generalized Capacity Planning for the Hospital-Residents Problem**  
+   H. Balasundaram, G. Limaye, M. Nasre, and A. Raja  
+   *Elsevier Theoretical Computer Science*  
+   [arXiv](https://arxiv.org/abs/2503.23328)
+
+3. **Stability Notions for Hospital Residents with Sizes**  
+   H. Balasundaram, Krishnashree J. B., G. Limaye, M. Nasre  
+   *FSTTCS 2025*  
+   [arXiv](https://www.arxiv.org/abs/2506.03638)
