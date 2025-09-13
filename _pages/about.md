@@ -6,7 +6,7 @@ subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail
 
 profile:
   align: right
-  image: 2c_image.jpeg
+  image: 2c_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -16,13 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering Dual Degree (UG + PG) Student at Indian Institute of Technology, Madras.
+Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering student at Indian Institute of Technology, Madras.
 
 I am deeply passionate about exploring advanced concepts in *electrical engineering* and *computer science* using *fundamental mathematical* principles.
 
 My primary areas of interest include:
 
-- *Statistical Learning Theory* and *Information Theory*
+- *Statistical Learning* and *Information Theory*
 - *Theoretical Computer Science*, with a particular emphasis on algorithms and complexity
 - *The Future of Communication Systems*, including 5G and 6G technology
 
