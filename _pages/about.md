@@ -7,7 +7,7 @@ subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail
 profile:
   align: right
   image: 2c_photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 news: false  # includes a list of news items
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering student at Indian Institute of Technology, Madras.
+Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering dual degree student at Indian Institute of Technology, Madras.
 
 I am deeply passionate about exploring advanced concepts in *electrical engineering* and *computer science* using *fundamental mathematical* principles.
 
