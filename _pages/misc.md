@@ -25,10 +25,15 @@ I am the founder and was the head of Mathematics Club, Centre for Innovation, at
 {% endfor %}
 
 #### Course Presentations
+
 These include my presentations as part of course projects.
 
-* [Lempel-Ziv Coding: Information Theory]({{ '/assets/Information_Theory_Presentation.pdf' | relative_url }})
+* [Lempel-Ziv Coding: Information Theory]({{ '/assets/pdf/Information_Theory_Presentation.pdf' | relative_url }})
 
 * [Advanced Graph Algorithms Paper Presentation]({{ '/assets/pdf/Advanced_Graph_Algorithms_Paper_Presentation.pdf' | relative_url }})
 
-* [Approximation Algorithms Paper Presentation]({{ '/assets/Approximation_Algorithms_Paper_Presentation.pdf' | relative_url }})
+* [Approximation Algorithms Paper Presentation]({{ '/assets/pdf/Approximation_Algorithms_Paper_Presentation.pdf' | relative_url }})
+
+#### Quizzing
+
+I participate in Quizzes on world knowledge occassionally. I consider this an opportunity to appreciate world art, culture, literature and science. I have also set quizzes for the Bombay Quiz Club and IIT Madras.
