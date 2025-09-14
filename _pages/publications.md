@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-## Accepted Publications
+#### Accepted Publications
 
 1. **Estimating Error in Natural Distribution Estimation**  
    H. Balasundaram, A. Thangaraj  
@@ -15,7 +15,7 @@ nav_order: 3
 
 ---
 
-## Ongoing Publications
+#### Ongoing Publications
 
 1. **Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback**  
    H. Balasundaram, K. Jagannathan  
