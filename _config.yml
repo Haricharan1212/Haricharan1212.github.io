@@ -120,14 +120,17 @@ blog_nav_title: Blog # your blog must have a title for it to be displayed in the
 blog_description: # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
+
 # Pagination
 pagination:
   enabled: true
   per_page: 5
   permalink: /blog/page:num/
+  
 
 related_blog_posts:
   enabled: false
+
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
