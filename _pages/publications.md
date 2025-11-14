@@ -11,7 +11,8 @@ nav_order: 2
 
 1. **Estimating Error in Natural Distribution Estimation**
 
-   H. Balasundaram, A. Thangaraj *Annual Allerton Conference on Communication, Control, and Computing 2025*
+   H. Balasundaram, A. Thangaraj \ 
+   *Annual Allerton Conference on Communication, Control, and Computing 2025* \ 
    [link](\href{https://hdl.handle.net/2142/130303}{\textsc{link}})
 
 2. **Stability Notions for Hospital Residents with Sizes**
