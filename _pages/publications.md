@@ -15,7 +15,7 @@ You can find my Google Scholar page [here](https://scholar.google.com/citations?
 
    H. Balasundaram, A. Thangaraj.
    *Annual Allerton Conference on Communication, Control, and Computing 2025*.
-   [link](\href{https://hdl.handle.net/2142/130303}{\textsc{link}})
+   [link](https://hdl.handle.net/2142/130303)
 
 2. **Stability Notions for Hospital Residents with Sizes**
    
