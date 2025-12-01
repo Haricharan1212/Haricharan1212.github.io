@@ -18,7 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 Hey, I'm **Haricharan**! I'm a final-year Electrical Engineering dual degree student at Indian Institute of Technology, Madras.
 
-I'm deeply passionate about researching in *Electrical Engineering* and *Computer Science* using mathematical principles. In particular, I'm excited about the subtle interplay of learning, optimization, and information theory. My research interests include:
-
+I'm deeply passionate about researching in *Electrical Engineering* and *Computer Science* using mathematical principles. In particular, I'm excited about the subtle interplay of learning, optimization, and information theory. My research interests are two-fold:
 - *Advancing statistical learning and estimation to better characterize data-processing mechanisms:* I aim to develop learning methods and rigorously establish their performance guarantees and information-theoretic limits.
 - *Investigating how optimization enables effective inference from observations:* I intend to examine how optimization algorithms interact with statistical models and establish their convergence and risk bounds.
