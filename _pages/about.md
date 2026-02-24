@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='mailto:haricharan12122003@gmail.com'>haricharan12122003@gmail.com</a>
+nav: true
+nav_order: 1
 
 profile:
   align: right
