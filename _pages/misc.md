@@ -3,7 +3,7 @@ layout: page
 permalink: /misc/
 title: Miscellaneous
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 <!-- {% include video.html path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true %}
@@ -35,9 +35,7 @@ I am the founder and was the head of Mathematics Club, Centre for Innovation, at
 These include my presentations as part of course projects.
 
 * [Lempel-Ziv Coding: Information Theory]({{ '/assets/pdf/Information_Theory_Presentation.pdf' | relative_url }})
-
 * [Advanced Graph Algorithms Paper Presentation]({{ '/assets/pdf/Advanced_Graph_Algorithms_Paper_Presentation.pdf' | relative_url }})
-
 * [Approximation Algorithms Paper Presentation]({{ '/assets/pdf/Approximation_Algorithms_Paper_Presentation.pdf' | relative_url }})
 
 #### Quizzing
