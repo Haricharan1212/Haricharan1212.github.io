@@ -18,11 +18,17 @@ nav_order: 6
 
 I am the founder and was the head of Mathematics Club, Centre for Innovation, at IIT Madras. In my year-and-half stint, I had conducted fun and engaging sessions (mostly to undergrads) and you can find the links to some of them below. Some of the slides were made using [Manim](https://www.manim.community/).
 
+<ul>
 {% for file in site.static_files %}
-  {% if file.path contains "maths_club" -%}
-     * [{{ file.basename }}]({{ site.baseurl }}{{ file.path }})
-  {%- endif %}
+  {% if file.path contains "maths_club" %}
+    <li>
+      <a href="{{ site.baseurl }}{{ file.path }}">
+        {{ file.basename }}
+      </a>
+    </li>
+  {% endif %}
 {% endfor %}
+</ul>
 
 #### Course Presentations
 

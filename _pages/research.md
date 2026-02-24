@@ -20,9 +20,8 @@ In our work, we characterize the *unavoidable estimation error* incurred by the 
    *Annual Allerton Conference on Communication, Control, and Computing*, 2025. [Conference Paper](https://hdl.handle.net/2142/130303). [Slides](https://easychair.org/smart-slide/slide/CwFS#{sn:1}).
 
 2. **Distribution Estimation with Side Information**  
-
    **H. Balasundaram**, A. Thangaraj.  
-   *Submitted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535)
+   *Submitted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535).
 
 ---
 
@@ -30,7 +29,7 @@ In our work, we characterize the *unavoidable estimation error* incurred by the 
 
 1. **Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback**     
    **H. Balasundaram**, K. Jagannathan.  
-   [arXiv](https://arxiv.org/abs/2507.08599)
+   [arXiv](https://arxiv.org/abs/2507.08599).
 
 ---
 
@@ -38,8 +37,8 @@ In our work, we characterize the *unavoidable estimation error* incurred by the 
 
 1. **Generalized Capacity Planning for the Hospital-Residents Problem**  
    **H. Balasundaram**, G. Limaye, M. Nasre, and A. Raja.  
-   *Theoretical Computer Science*, 2026. [Journal Paper](https://www.sciencedirect.com/science/article/pii/S0304397526000198)
+   *Theoretical Computer Science*, 2026. [Journal Paper](https://www.sciencedirect.com/science/article/pii/S0304397526000198).
 
 2. **Stability Notions for Hospital Residents with Sizes**     
    **H. Balasundaram**, Krishnashree J. B., G. Limaye, M. Nasre.  
-   *Foundations of Software Technology and Theoretical Computer Science 2025*. [Conference Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2025.11)
+   *Foundations of Software Technology and Theoretical Computer Science 2025*. [Conference Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2025.11).
