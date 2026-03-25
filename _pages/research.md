@@ -29,18 +29,18 @@ In our work, we characterize the *unavoidable estimation error* incurred by the 
 
 #### Research in Online Convex Optimization
 
-The problem of *Online Convex Optimization (OCO)*, where a policy selects an action before observing a convex cost function, is well understood, with a regret bound of \(O(\sqrt{T})\). We study *Constrained Online Convex Optimization (COCO)*, a natural extension of OCO in which, after each action, the policy observes not only a cost function but also a constraint function. Since it may be impossible to satisfy the constraint at every step online, the goal is to simultaneously minimize regret while controlling the cumulative constraint violation.
+The problem of *Online Convex Optimization (OCO)*, where a policy selects an action before observing a convex cost function, is well understood, with a regret bound of O(√T). We study *Constrained Online Convex Optimization (COCO)*, a natural extension of OCO in which, after each action, the policy observes not only a cost function but also a constraint function. Since it may be impossible to satisfy the constraint at every step online, the goal is to simultaneously minimize regret while controlling the cumulative constraint violation.
 
-Prior work by *Vaze and Sinha* established that both regret and total constraint violation can both be bounded by \(O(\sqrt{T})\), a result that was widely believed to be optimal. In this work, we refute that belief and show that, in two dimensions, it is possible to achieve:
-- Regret: \(O(\sqrt{T})\)  
-- Constraint violation: \(O(T^{1/3})\)
+Prior work by *Vaze and Sinha* established that both regret and total constraint violation can both be bounded by O(√T), a result that was widely believed to be optimal. In this work, we refute that belief and show that, in two dimensions, it is possible to achieve:
+- Regret: O(√T)  
+- Constraint violation: O(T^(1/3))
 
 Our analysis is geometric in nature. At each step, we demonstrate that either the *area* or the *perimeter* of the constraint sets shown decreases. Since the initial region has finite area and perimeter, this process cannot continue indefinitely. This yields a simultaneous upper bound on both regret and constraint violation.
 
 1. **Breaking the $O(\sqrt{T})$ Cumulative Constraint Violation Barrier while Achieving $O(\sqrt{T})$ Static Regret in Constrained Online Convex Optimization**  
    **H. Balasundaram**, Karthick Krishna Mahendran, Rahul Vaze.  
    [arXiv](https://arxiv.org/abs/2603.20671)
-
+   
 ---
 
 #### Research in Information Theory
