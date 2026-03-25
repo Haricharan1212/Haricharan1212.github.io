@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-{%- include mathjax.html -%}
+{% include scripts/mathjax.html %}
 
 You can find my Google Scholar page [here](https://scholar.google.com/citations?user=EH_qcqkAAAAJ&hl=en).
 
