@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+{%- include mathjax.html -%}
+
 You can find my Google Scholar page [here](https://scholar.google.com/citations?user=EH_qcqkAAAAJ&hl=en).
 
 #### Research in Distribution Estimation
