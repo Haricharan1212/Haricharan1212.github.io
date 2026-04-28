@@ -23,7 +23,7 @@ In our work, we characterize the *unavoidable estimation error* incurred by the 
 
 2. **Distribution Estimation with Side Information**  
    **H. Balasundaram**, A. Thangaraj.  
-   *Submitted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535).
+   *Accepted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535).
 
 ---
 
@@ -60,3 +60,4 @@ Our analysis is geometric in nature. At each step, we demonstrate that either th
 2. **Stability Notions for Hospital Residents with Sizes**     
    **H. Balasundaram**, Krishnashree J. B., G. Limaye, M. Nasre.  
    *Foundations of Software Technology and Theoretical Computer Science 2025*. [Conference Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2025.11).
+
