@@ -15,15 +15,23 @@ You can find my Google Scholar page [here](https://scholar.google.com/citations?
 
 *Distribution estimation* concerns the problem of estimating an unknown *probability distribution* from a finite set of samples. The *empirical estimator*—equivalently, the *maximum likelihood estimator (MLE)*—is known to be *asymptotically optimal*. However, alternative procedures such as *add-constant estimators*, the *modified Good–Turing estimator*, and the *profile maximum likelihood (PML) estimator* can demonstrate improved performance under various choices of *loss functions*. These estimators are *natural*, in the sense that they assign equal probability to symbols that appear the same number of times in the observed sample.
 
-In our work, we characterize the *unavoidable estimation error* incurred by the class of natural estimators. We further develop strategies that leverage some *side information* to beat the performance of natural estimators.
+In our first work, we characterize the *unavoidable estimation error* incurred by the class of natural estimators. This is the price any estimator has to pay for being natural. Further, we also provide an estimator for this unavoidable estimation error.
 
 1. **Estimating Error in Natural Distribution Estimation**  
    **H. Balasundaram**, A. Thangaraj.  
    *Annual Allerton Conference on Communication, Control, and Computing*, 2025. [Conference Paper](https://hdl.handle.net/2142/130303). [Slides](https://easychair.org/smart-slide/slide/CwFS#{sn:1}).
 
+Now that there is an unavoidable error lower bound on the estimator error, we develop strategies that leverage some *side information* to beat the performance of natural estimators. The side information could be as follows: It could be that we know a *synonymous* distribution that is some distance from the distribution we are trying to estimate. Such side information improves our estimation error and we analyze minimax bounds in this scenario.
+
 2. **Distribution Estimation with Side Information**  
    **H. Balasundaram**, A. Thangaraj.  
    *Accepted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535).
+
+How will one get such a synonymous distribution practically? We analyze this in the context of language models, and show that two words with similar *embeddings* also have similar distributions of words occurring after that word. We use this idea to construct better language models and improve the *perplexity*.
+
+3. **Semantic Smoothing for Language Models via Distribution Estimation and Embeddings**  
+   **H. Balasundaram**, S. S. Narashiman, P. Mathur, A. Thangaraj.  
+   [arXiv](https://arxiv.org/abs/2605.07994).
 
 ---
 
