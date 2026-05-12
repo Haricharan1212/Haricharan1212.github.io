@@ -25,7 +25,7 @@ Now that there is an unavoidable lower bound on the estimator error, we develop 
 
 2\. **Distribution Estimation with Side Information**  
    **H. Balasundaram**, A. Thangaraj.  
-   *Accepted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535).
+   *Accepted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535). [EE Research Symposium Slides]({{ '/assets/pdf/ee_symposium_slides.pdf' | relative_url }})   
 
 How will one get such a synonymous distribution practically? We analyze this in the context of language models, and show that two words with similar *embeddings* also have similar distributions of words occurring after that word. For instance, the probability distibution of words occurring after the word 'big' and after the word 'enormous' would be similar and thus it is possible to mutually improve their estimates. We use this idea to construct better language models and improve the *perplexity*, the metric used to evaluate language models.
 
