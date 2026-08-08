@@ -25,13 +25,13 @@ Now that there is an unavoidable lower bound on the estimator error, we develop 
 
 2\. **Distribution Estimation with Side Information**  
    **H. Balasundaram**, A. Thangaraj.  
-   *Accepted to International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535). [EE Research Symposium Slides]({{ '/assets/pdf/ee_symposium_slides.pdf' | relative_url }})
+   *International Symposium on Information Theory*, 2026. [arXiv](https://arxiv.org/abs/2601.08535). [EE Research Symposium Slides]({{ '/assets/pdf/ee_symposium_slides.pdf' | relative_url }})
 
 How will one get such a synonymous distribution practically? We analyze this in the context of language models, and show that two words with similar *embeddings* also have similar distributions of words occurring after that word. For instance, the probability distibution of words occurring after the word 'big' and after the word 'enormous' would be similar and thus it is possible to mutually improve their estimates. We use this idea to construct better language models and improve the *perplexity*, the metric used to evaluate language models.
 
 3\. **Semantic Smoothing for Language Models via Distribution Estimation and Embeddings**  
    **H. Balasundaram**, S. S. Narashiman, P. Mathur, A. Thangaraj.  
-   [arXiv](https://arxiv.org/abs/2605.07994).
+   *Accepted to Information Theory Workshop*, 2026. [arXiv](https://arxiv.org/abs/2605.07994).
 
 ---
 
@@ -48,7 +48,7 @@ We show that incurring a constraint violation reduces either the *area* or the *
 
 1\. **Breaking the $$O(\sqrt{T})$$ Cumulative Constraint Violation Barrier while Achieving $$O(\sqrt{T})$$ Static Regret in Constrained Online Convex Optimization**  
    **H. Balasundaram**, Karthick Krishna Mahendran, Rahul Vaze.  
-   [arXiv](https://arxiv.org/abs/2603.20671)
+   *Accepted to Performance* 2026. [arXiv](https://arxiv.org/abs/2603.20671)
 
 Next, we consider a case where a single function $$f$$ is known and constraint sets are shown online, and an algorithm has to simultaneously control both the regret and the movement cost. This is the problem of *Convex Optimization with Nested Evolving feasible Sets (CONES)*. We prove that it is, in general, possible to get non-positive regret and $$\log(T)$$ movement cost for a wide class of functions $$f$$.
 
@@ -62,7 +62,7 @@ Next, we consider a case where a single function $$f$$ is known and constraint s
 
 1\. **Learning to Transmit Over Unknown Erasure Channels with Empirical Erasure Rate Feedback**     
    **H. Balasundaram**, K. Jagannathan.  
-   [arXiv](https://arxiv.org/abs/2507.08599).
+   *Accepted to Information Theory Workshop*, 2026. [arXiv](https://arxiv.org/abs/2507.08599).
 
 ---
 
