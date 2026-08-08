@@ -40,4 +40,4 @@ These include my presentations as part of course projects.
 
 #### Quizzing
 
-I participate in Quizzes on world knowledge occassionally. I consider this an opportunity to appreciate world art, culture, literature and science. I have also set quizzes for the Bombay Quiz Club and IIT Madras.
+I participate in Quizzes on world knowledge occassionally. I consider this an opportunity to appreciate world art, culture, literature and science. I have also set quizzes for the Bombay Quiz Club, Quiz Foundation of India, and IIT Madras.
